@@ -11,17 +11,23 @@ INSTALL:
 
 clone this repo.
 
-git clone git@github.com:trikyas/Trikyas-React-Notes.git
+        git clone git@github.com:trikyas/Trikyas-React-Notes.git
 
-navigate to folder "Trikyas-React-Notes"
+navigate to folder 
+
+        "Trikyas-React-Notes"
 
 open Terminal (if you haven't already) and run:
 
-npm install
+        npm install
 
-npm run
+        npm run
 
 That's it :)
+
+The application will open in your browser:
+
+        http://localhost:3000
 
 Happy Hacking and hope you have Codiful day.
 
